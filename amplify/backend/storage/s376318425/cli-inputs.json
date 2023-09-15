@@ -1,0 +1,16 @@
+{
+  "resourceName": "s376318425",
+  "policyUUID": "76318425",
+  "bucketName": "nexttutorialappbc673fa4df8649049eb7b52371ab1ea9",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
